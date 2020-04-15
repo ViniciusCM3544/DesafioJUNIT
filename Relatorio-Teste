@@ -1,0 +1,23 @@
+Vinicius do Carmo Maciel 
+RM 83238
+
+Começo do Projeto 
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class JulgamentoPrisioneiroTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
+
+Na Primeira Tentativa 
+Na primeira tentativa os metodos de testes não estavam implementados e este foi o exception do java 
+
+Na Segunda Tentativa 
+Na classe de objetos foi alterado o tipo dos parametos do metodo calculaPena e corrigido os resultados das penas nas condições corretas.
+Na classe de testes instaciei a clasee JulgamentoPrisioneiro e criei um caso de teste para cada tipo de condenação 
